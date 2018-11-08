@@ -16,3 +16,12 @@ cat /etc/shells
 4. In a unix like os there are two types of variables.
 	1. System variable (These are predefined in a capital case)
 	2. User defined variable
+
+
+5. Syntax of if statement
+`sh
+if [ condition ]
+then
+	Statement
+fi
+`
